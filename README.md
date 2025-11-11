@@ -21,7 +21,6 @@ My expertise combines these areas to create secure, efficient, and scalable tech
 
 ## 🚀 Projects
 
-markdown## 🏠 Homelab & Infrastructure
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
